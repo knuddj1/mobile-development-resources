@@ -1,0 +1,6 @@
+[submodule "mobile-2020-course-materials"]
+	path = mobile-2020-course-materials
+	url = git@github.com:Grayson-Orr/mobile-2020-course-materials.git
+[submodule "mobile-practicals-knuddj1"]
+	path = mobile-practicals-knuddj1
+	url = git@github.com:otago-polytechnic-bit-courses/mobile-practicals-knuddj1.git
