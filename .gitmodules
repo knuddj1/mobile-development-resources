@@ -4,3 +4,6 @@
 [submodule "mobile-practicals-knuddj1"]
 	path = mobile-practicals-knuddj1
 	url = git@github.com:otago-polytechnic-bit-courses/mobile-practicals-knuddj1.git
+[submodule "mobile-course-materials"]
+	path = mobile-course-materials
+	url = git@github.com:otago-polytechnic-bit-courses/mobile-course-materials.git
